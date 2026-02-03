@@ -1,5 +1,3 @@
-# Problems-with-Vivado-2019.1
-
 ## Problem with simulator on Ubuntu 20.04
 
 ### Problem 1
